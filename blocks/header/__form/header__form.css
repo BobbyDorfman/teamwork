@@ -1,6 +1,6 @@
 .header__form {
     font-weight: 600;
-    font-size: 20px;
+    font-size: 15px;
     line-height: 20px;
     text-align: center;
     color: #000;
@@ -10,6 +10,6 @@
 }
 
 .header__form:hover {
-    text-shadow: 2px 2px 3px #fecca7;
+    text-shadow: -2px 2px 3px #fecca7;
     opacity: 0.8;
 }
