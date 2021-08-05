@@ -1,7 +1,9 @@
 .intro__title {
-    font-weight: 900;
-    font-size: 40px;
+    font-weight: bold;
+    font-size: 30px;
     line-height: 45px;
     text-align: left;
     color: #000;
+    word-spacing: 3px;
+    letter-spacing: 1px;
 }
