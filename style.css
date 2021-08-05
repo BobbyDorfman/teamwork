@@ -1,1 +1,9 @@
 @import url(./vendor/normalize.css);
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+@import url(./blocks/page/page.css);
+@import url(./blocks/header/header.css);
+@import url(./blocks/header/__navigation/header__navigation.css);
+@import url(./blocks/header/__links/header__links.css);
+@import url(./blocks/header/__link/header__link.css);
+@import url(./blocks/header/__form/header__form.css);
+@import url(./blocks/header/__form/_style/header__form_style.css);
