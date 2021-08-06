@@ -1,8 +1,9 @@
 .place__image {
     width: 640px;
-    height: 640px;
+    height: 535px;
     -o-object-fit: cover;
        object-fit: cover;
+    object-position: center;
     margin: 0;
     transition: transform 0.7s;
 }

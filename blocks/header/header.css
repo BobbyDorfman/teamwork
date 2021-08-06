@@ -7,9 +7,9 @@
     margin: 46px auto 85px;
 }
 
-@media screen and (min-width: 1280px) {
+@media screen and (min-width: 1281px) {
     .header {
-        max-width: 1280px;
+        max-width: calc(100% - 70px * 2);
         margin: 46px auto 85px;
     }
 }

@@ -2,13 +2,13 @@
     display: flex;
     flex-direction: row;
     max-width: 1280px;
-    margin: 0 auto 90px;
+    margin: 0 auto 135px;
     justify-content: space-between;
 }
 
-@media screen and (min-width: 1280px) {
+@media screen and (min-width: 1281px) {
     .intro {
         max-width: 1280px;
-        margin: 0 auto 90px;
+        margin: 0 auto 135px;
     }
 }
