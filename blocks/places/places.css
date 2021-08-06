@@ -1,0 +1,18 @@
+.places {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #000;
+    list-style-type: none;
+    background: #f2f2f2;
+    /*max-width: calc(100% - 148px * 2);
+    margin: 92px auto 92px;*/
+}
+
+@media screen and (min-width: 1280px) {
+    .places {
+        max-width: 1280px;
+        margin: auto;
+        background: #f2f2f2;
+    }
+}

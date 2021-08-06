@@ -1,0 +1,7 @@
+.place__position {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 0;
+    padding: 60px;
+}

@@ -13,6 +13,14 @@
 @import url(./blocks/intro/__title/intro__title.css);
 @import url(./blocks/intro/__image/intro__image.css);
 @import url(./blocks/intro/__image/_increase/intro__image_increase.css);
+@import url(./blocks/places/places.css);
+@import url(./blocks/place/__image/place__image.css);
+@import url(./blocks/place/__image/_increase/place__image_increase.css);
+@import url(./blocks/place/__position/place__position.css);
+@import url(./blocks/place/place.css);
+@import url(./blocks/place/__paragraphs/place__paragraphs.css);
+@import url(./blocks/place/__paragraph/place__paragraph.css);
+@import url(./blocks/place/__title/place__title.css);
 
 @import url(./blocks/footer/footer.css);
 @import url(./blocks/footer/__copyright/footer__copyright.css);

@@ -1,0 +1,7 @@
+.place__image_increase {
+    width: 640px;
+    height: 640px;
+    display: block;
+    overflow: hidden;
+    margin: 0;
+}

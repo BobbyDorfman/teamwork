@@ -1,0 +1,29 @@
+/*.place__paragraphs {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+}*/
+
+/*Пробую в кросбраузерность*/
+
+.place__paragraphs {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    margin: 0;
+    padding-right: 90px;
+    color: black;
+}
+
+@media screen and (max-width: 731px) {
+    .place__paragraphs {
+        width: calc(100% - 16px * 2);
+        margin: auto;
+        transition: all 1s ease;
+    }
+}

@@ -4,3 +4,10 @@
     min-height: 621px;
     background: #fecca7;
 }
+
+@media screen and (min-width: 1280px) {
+    .footer {
+        max-width: 1280px;
+        margin: auto;
+    }
+}

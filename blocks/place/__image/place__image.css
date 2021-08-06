@@ -1,0 +1,24 @@
+.place__image {
+    width: 640px;
+    height: 640px;
+    -o-object-fit: cover;
+       object-fit: cover;
+    margin: 0;
+    transition: transform 0.7s;
+}
+
+.place__image:hover {
+    transform: scale(1.2);
+}
+
+/*@media screen and (max-width: 769px) {
+    .place__image {
+        max-width: 340px;
+    }
+}
+
+@media screen and (max-width: 641px) {
+    .place__image {
+        max-width: 100%;
+    }
+}*/
