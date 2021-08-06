@@ -1,0 +1,12 @@
+.quotes {
+    display: flex;
+    max-width: 1280px;
+    flex-direction: column;
+}
+
+@media screen and (min-width: 1281px) {
+    .quotes {
+        max-width: 1280px;
+        margin: auto;
+    }
+}

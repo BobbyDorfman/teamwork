@@ -1,11 +1,12 @@
 .quotes-title {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    width: 60%;
-    margin: 100px auto 20px;
-    text-align: center;
-    line-height: 1.15;
-    font-size: 60px;
-    font-weight: bold;
+  display: flex;
+  flex-direction: row;
+  max-width: 450px;
+  margin: 30px 70px 20px;
+  text-align: left;
+  line-height: 1.15;
+  font-size: 35px;
+  font-weight: 600;
+  justify-content: flex-start;
+  align-items: flex-start;
 }
