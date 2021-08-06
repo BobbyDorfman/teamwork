@@ -13,3 +13,6 @@
 @import url(./blocks/intro/__title/intro__title.css);
 @import url(./blocks/intro/__image/intro__image.css);
 @import url(./blocks/intro/__image/_increase/intro__image_increase.css);
+
+@import url(./blocks/footer/footer.css);
+@import url(./blocks/footer/__copyright/footer__copyright.css);

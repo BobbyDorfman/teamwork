@@ -1,0 +1,10 @@
+.footer__copyright {
+    font-weight: bold;
+    font-size: 33px;
+    line-height: 45px;
+    text-align: center;
+    color: #000;
+    /*word-spacing: 1.5px;
+    letter-spacing: 1px;*/
+    margin: auto;
+}
