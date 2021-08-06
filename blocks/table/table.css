@@ -4,6 +4,6 @@
     justify-content: space-between;
     flex-wrap: wrap;
     width: calc(100% - 70px*2);
-    margin: 125px auto 145px;
+    margin: 105px auto 145px;
     padding: 0;
 }
