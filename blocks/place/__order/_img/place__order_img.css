@@ -1,0 +1,9 @@
+.place__order_img {
+    order: 2;
+}
+
+@media screen and (max-width: 426px) {
+    .place__order_img {
+        order: 1;
+    }
+}

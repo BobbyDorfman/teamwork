@@ -13,3 +13,16 @@
         margin: 46px auto 85px;
     }
 }
+
+@media screen and (max-width: 769px) {
+    .header {
+        max-width: calc(100% - 24px * 2);
+        transition: all 1s ease;
+    }
+}
+
+@media screen and (max-width: 426px) {
+    .header {
+        margin: 20px auto 50px;
+    }
+}

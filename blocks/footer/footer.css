@@ -11,3 +11,16 @@
         margin: auto;
     }
 }
+
+@media screen and (max-width: 769px) {
+    .footer {
+        min-height: 421px;
+        transition: all 1s ease;
+    }
+}
+
+@media screen and (max-width: 426px) {
+    .footer {
+        min-height: 221px;
+    }
+}

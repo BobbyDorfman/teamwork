@@ -7,3 +7,15 @@
     margin: 0;
     padding: 0;
 }
+
+@media screen and (max-width: 426px) {
+    .header__links {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        list-style: none;
+        width: 70px;
+        margin: 0;
+        padding: 0;
+    }
+}

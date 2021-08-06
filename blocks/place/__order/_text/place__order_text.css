@@ -1,0 +1,9 @@
+.place__order_text {
+    order: 1;
+}
+
+@media screen and (max-width: 426px) {
+    .place__order_text {
+        order: 2;
+    }
+}

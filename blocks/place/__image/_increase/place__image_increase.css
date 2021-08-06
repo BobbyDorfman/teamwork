@@ -1,6 +1,6 @@
 .place__image_increase {
-    width: 640px;
-    height: 535px;
+    max-width: 640px;
+    max-height: 535px;
     display: block;
     overflow: hidden;
     margin: 0;

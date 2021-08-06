@@ -3,5 +3,12 @@
     flex-direction: column;
     justify-content: space-between;
     margin: 0;
+    width: 80%;
     padding: 60px;
+}
+
+@media screen and (max-width: 426px) {
+    .place__position {
+        padding: 30px;
+    }
 }

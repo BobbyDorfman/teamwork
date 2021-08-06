@@ -13,3 +13,10 @@
     text-shadow: -2px 2px 3px #fecca7;
     opacity: 0.8;
 }
+
+@media screen and (max-width: 426px) {
+    .header__form {
+        font-size: 20px;
+        line-height: 30px;
+    }
+}

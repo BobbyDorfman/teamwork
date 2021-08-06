@@ -8,3 +8,11 @@
     letter-spacing: 1px;
     margin: 30px 0 0 0;
 }
+
+@media screen and (max-width: 426px) {
+    .intro__title {
+        font-size: 25px;
+        line-height: 35px;
+        margin: 15px 0 0 0;
+    }
+}

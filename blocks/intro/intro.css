@@ -12,3 +12,11 @@
         margin: 0 auto 135px;
     }
 }
+
+@media screen and (max-width: 769px) {
+    .intro {
+        max-width: 100%;
+        flex-direction: column;
+        margin: 0 auto 0;
+    }
+}

@@ -12,26 +12,11 @@
     color: black;
 }
 
-/*@media screen and (max-width: 1025px) {
+@media screen and (max-width: 426px) {
     .place__title {
-        max-width: 440px;
-        transition: all 1s ease;
+        max-width: 426px;
+        font-size: 25px;
+        line-height: 20px;
+        margin: 0 0 15px 0;
     }
 }
-
-@media screen and (max-width: 769px) {
-    .place__title {
-        font-size: 42px;
-        line-height: 46px;
-        max-width: 330px;
-    }
-}
-
-@media screen and (max-width: 641px) {
-    .place__title {
-        font-size: 32px;
-        line-height: 35px;
-        width: calc(100% - 16px * 2);
-        margin: 0 0 0 16px;
-    }
-}*/

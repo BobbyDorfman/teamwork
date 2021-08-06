@@ -14,6 +14,8 @@
 @import url(./blocks/intro/__image/intro__image.css);
 @import url(./blocks/intro/__image/_increase/intro__image_increase.css);
 @import url(./blocks/places/places.css);
+@import url(./blocks/place/__order/_img/place__order_img.css);
+@import url(./blocks/place/__order/_text/place__order_text.css);
 @import url(./blocks/place/__image/place__image.css);
 @import url(./blocks/place/__image/_increase/place__image_increase.css);
 @import url(./blocks/place/__position/place__position.css);

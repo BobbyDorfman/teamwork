@@ -11,3 +11,16 @@
     color: #fecca7;
     text-transform: uppercase;
 }
+
+@media screen and (max-width: 769px) {
+  .quotes-subtitle {
+      margin: 50px 70px 0;
+      transition: all 1s ease;
+  }
+}
+
+@media screen and (max-width: 426px) {
+  .quotes-subtitle {
+    margin: 25px auto 0;
+  }
+}

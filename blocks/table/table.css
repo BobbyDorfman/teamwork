@@ -7,3 +7,32 @@
     margin: 105px auto 145px;
     padding: 0;
 }
+
+@media screen and (min-width: 1281px) {
+  .table {
+      max-width: calc(1280px - 70px*2);
+      margin: 105px auto 145px;
+    }
+}
+
+@media screen and (max-width: 1100px) {
+  .table {
+      max-width: 70%;
+      margin: 105px auto 80px;
+      transition: all 1s ease;
+  }
+}
+
+@media screen and (max-width: 769px) {
+  .table {
+      margin: 50px auto 15px;
+  }
+}
+
+@media screen and (max-width: 426px) {
+  .table {
+    justify-content: center;
+    width: 80%;
+    margin: 15px auto 15px;
+  }
+}

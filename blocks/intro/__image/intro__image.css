@@ -1,7 +1,21 @@
 .intro__image {
     display: block;
-    width: 350px;
-    height: 350px;
+    min-width: 350px;
+    max-height: 350px;
     object-fit: cover;
     margin: 0 160px 0 0;
+}
+
+@media screen and (max-width: 1025px) {
+    .intro__image {
+        min-width: 250px;
+        max-height: 250px;
+        transition: all 1s ease;
+    }
+}
+
+@media screen and (max-width: 769px) {
+    .intro__image {
+        display: none;
+    }
 }

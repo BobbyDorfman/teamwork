@@ -10,3 +10,20 @@
   justify-content: flex-start;
   align-items: flex-start;
 }
+
+@media screen and (max-width: 769px) {
+  .quotes-title {
+      margin: 15px 70px 0px;
+      transition: all 1s ease;
+  }
+}
+
+@media screen and (max-width: 426px) {
+  .quotes-title {
+    max-width: 100%;
+    margin: 10px auto 0;
+    text-align: center;
+    line-height: 1.1;
+    font-size: 25px;
+  }
+}
